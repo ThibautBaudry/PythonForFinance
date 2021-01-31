@@ -4,7 +4,7 @@ Here is our PythonForFinance project made by Mehdi CHELAIFA and Thibaut BAUDRY.
 
 We chose the News Webscrapping project (number 7).
 
-We chose to do do this project with 2 newspapers: Cnews (https://www.cnews.fr) and The Daily Mail (https://www.dailymail.co.uk/home/index.html).
+We chose to do this project with 2 newspapers: Cnews (https://www.cnews.fr) and The Daily Mail (https://www.dailymail.co.uk/home/index.html).
 
 We made two different files: WebscrappingDailyMail and WebscrapperCNews.
 
